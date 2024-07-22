@@ -1,0 +1,235 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700,700i&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Coda&display=swap");
+
+#owl-demo-18 .item {
+  margin: 6px 8px;
+}
+#owl-demo-18 .item img {
+  display: block;
+}
+
+#st-council-menus {
+  background: #39639b;
+  padding: 5% 0 0px;
+}
+#student-council-banner {
+  position: relative;
+}
+.student-council-banner-txt {
+  position: absolute;
+  left: 15%;
+  bottom: 116px;
+}
+#st-council-menus #cssmenu2 > ul > li > a {
+  padding: 15px 22px;
+  text-decoration: none;
+  color: #333;
+  border-bottom: 5px solid #283891;
+  border-top: none;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+#st-council-menus #cssmenu2 > ul > li:hover > a {
+  color: #076ef9 !important;
+  background: none;
+  border-bottom: 5px solid #076ef9 !important;
+}
+#st-council-menus .banner-menu-bttm-inn {
+  background: #fff;
+  padding: 10px 34px 24px;
+}
+#st-council-abt-txt {
+  background: #f9fafb;
+  padding: 60px 0px;
+}
+#comn-hd-r3 .serch-hd1 {
+  font-size: 34px;
+  font-weight: bold;
+  color: #000;
+  margin: 0px auto;
+}
+#comn-hd-r3 .serch-hd2 {
+  font-size: 40px;
+  font-weight: 300;
+  color: #000;
+  margin: 0px auto;
+  padding-left: 101px;
+}
+.st-councl-abthdd {
+  padding: 25px 0px;
+}
+.st-councl-abthdd h4 {
+  font-size: 24px;
+  color: #4a4a4a;
+}
+.st-councl-abthdd p {
+  line-height: 28px;
+  font-size: 16px;
+  color: #4a4a4a;
+}
+.vide img {
+  margin: 45px auto;
+}
+.stdnt-cncl-itm_1 {
+  position: relative;
+  padding: 28px 0;
+}
+.students-txt-wrpr {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 89px;
+}
+.std-cncil-txts {
+}
+.std-cncil-txts h4 {
+  font-size: 24px;
+  color: #4a4a4a;
+  margin: 0px auto 15px;
+}
+.std-cncil-txts p {
+  line-height: 29px;
+  font-size: 16px;
+  color: #4a4a4a;
+  text-align: justify;
+}
+#st-council-menus #cssmenu2 #menu-button::before {
+  background: #39639b;
+}
+#st-council-menus #cssmenu2 #menu-button::after {
+  position: absolute;
+  top: 22px;
+  right: 17px;
+  display: block;
+  height: 8px;
+  width: 20px;
+  border-top: 2px solid #39639b;
+  border-bottom: 2px solid #39639b;
+  content: "";
+}
+.st-councl-abthdd2 {
+  padding: 10px 0px;
+}
+.st-councl-abthdd2 h4 {
+  font-size: 24px;
+  color: #4a4a4a;
+}
+.st-councl-abthdd2 p {
+  line-height: 28px;
+  font-size: 16px;
+  color: #4a4a4a;
+}
+.st-councl-abthdd2 h2 {
+  font-size: 25px;
+  color: #4a4a4a;
+  margin: 10px auto 10px;
+  text-transform: uppercase;
+}
+.st-councl-abthdd2 h4 {
+  font-size: 25px;
+  color: #4a4a4a;
+  margin: 25px auto;
+}
+.consti-itms {
+  background: #f9fafb;
+  padding: 25px 0;
+}
+.consti-itms h4 {
+  font-size: 24px;
+  color: #4a4a4a;
+}
+#st-council-abt-txt3 {
+  background: #fff;
+  padding: 60px 0px 0;
+}
+.consti-itms2 {
+  background: #e8f3f7;
+  padding: 25px 0;
+}
+.consti-itms2 h4 {
+  font-size: 24px;
+  color: #4a4a4a;
+}
+.consti-itms2 p {
+  margin: 0px auto;
+  line-height: 28px;
+}
+.consti-itms p {
+  margin: 0px auto;
+  line-height: 28px;
+}
+#photo-gallry-ry {
+  padding: 45px 0px 115px;
+  background: #f9fafb;
+  position: relative;
+}
+.nws-hdd4 {
+  color: #39639b;
+  font-size: 40px;
+}
+#mentor-wrpr {
+  padding: 45px 0px;
+  background: #f9fafb;
+}
+.nws-hdd5 {
+  color: #000;
+  font-size: 40px;
+}
+.mentor-wrpr-itm {
+  padding: 25px 0px;
+}
+.mentor-itm-itm {
+  border: 1px solid #d6d6d6;
+  background: #fff;
+  box-shadow: -1px 0px 5px -3px rgba(0, 0, 0, 0.75);
+  margin: 15px auto;
+}
+.mentor-itm-mmg {
+  padding: 25px 25px;
+}
+.mentor-itm-mmg-txt {
+  text-align: center;
+  background: #0eabe0;
+  color: #fff;
+  height: 94px;
+  padding: 13px 10px;
+}
+.mentor-itm-mmg img {
+  margin: 0px auto;
+  border-radius: 0%;
+  /*border: 4px solid #0EABE0;*/
+  width: 100%;
+}
+.mentor-itm-mmg-txt h4 {
+  font-size: 20px;
+  margin: 0px auto 8px;
+}
+.mentor-itm-mmg-txt p {
+  font-size: 16px;
+  margin: 0px auto;
+}
+#mentor-wrpr-caps .custom-dropdown {
+  margin-bottom: 8px;
+}
+#mentor-wrpr-caps {
+  padding: 45px 0px;
+  background: #f9fafb;
+}
+#mentor-wrpr-caps .mentor-itm-mmg-txt p {
+  font-size: 11px;
+  line-height: 20px;
+}
+#mentor-wrpr-caps .mentor-itm-mmg-txt {
+  height: 134px;
+  padding: 17px 10px;
+}
+.pk-inner-menu-active {
+  /*color:#6DCBF8 !important;
+	border-bottom: 5px solid #6DCBF8 !important;*/
+}
+
+#mentor-wrpr-caps .mentor-itm-mmg {
+  padding: 25px 25px;
+  height: 200px;
+}

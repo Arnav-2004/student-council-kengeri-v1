@@ -1,0 +1,177 @@
+@media screen and (min-width: 320px) and (max-width: 480px) {
+  .student-council-banner-txt {
+    position: static;
+    padding: 21px;
+    background: #352c65;
+  }
+  .students-txt-wrpr {
+    position: static;
+  }
+  .bg-str {
+    display: none;
+  }
+  #st-council-menus .banner-menu-bttm-inn {
+    padding: 4px 34px;
+  }
+}
+@media screen and (min-width: 481px) and (max-width: 640px) {
+  .student-council-banner-txt {
+    position: static;
+    padding: 21px;
+    background: #352c65;
+  }
+  .students-txt-wrpr {
+    position: static;
+  }
+  .bg-str {
+    display: none;
+  }
+  #st-council-menus .banner-menu-bttm-inn {
+    padding: 4px 34px;
+  }
+}
+@media screen and (min-width: 641px) and (max-width: 800px) {
+  .students-txt-wrpr {
+    position: static;
+  }
+  .bg-str {
+    display: none;
+  }
+  #st-council-menus .banner-menu-bttm-inn {
+    padding: 4px 34px;
+  }
+}
+@media screen and (min-width: 801px) and (max-width: 1024px) {
+  .students-txt-wrpr {
+    position: static;
+  }
+  .bg-str {
+    display: none;
+  }
+  .mentor-itm-mmg-txt h4 {
+    font-size: 17px;
+    margin: 0px auto 8px;
+  }
+  .mentor-itm-mmg-txt p {
+    font-size: 14px;
+  }
+  .student-council-banner-txt {
+    left: 15%;
+    bottom: 52px;
+  }
+}
+@media screen and (min-width: 1025px) and (max-width: 1100px) {
+  .students-txt-wrpr {
+    position: static;
+  }
+  .mentor-itm-mmg-txt h4 {
+    font-size: 17px;
+    margin: 0px auto 8px;
+  }
+  .mentor-itm-mmg-txt p {
+    font-size: 14px;
+  }
+  .student-council-banner-txt {
+    left: 15%;
+    bottom: 74px;
+  }
+  .bg-str {
+    display: none;
+  }
+}
+@media screen and (min-width: 1101px) and (max-width: 1200px) {
+  .students-txt-wrpr {
+    position: static;
+  }
+  .student-council-banner-txt {
+    left: 15%;
+    bottom: 74px;
+  }
+  .bg-str {
+    display: none;
+  }
+}
+@media screen and (min-width: 1201px) and (max-width: 1301px) {
+  .students-txt-wrpr {
+    bottom: 70px;
+  }
+}
+@media screen and (min-width: 1302px) and (max-width: 1390px) {
+  .student-council-banner-txt {
+    left: 15%;
+    bottom: 87px;
+  }
+}
+@media screen and (min-width: 1391px) and (max-width: 1590px) {
+}
+@media only screen and (max-width: 800px) {
+  #common-tbles table {
+    display: block;
+    text-align: left;
+    border: none;
+  }
+  #common-tbles thead {
+    display: block;
+    text-align: left;
+    border: none;
+  }
+  #common-tbles tbody {
+    display: block;
+    text-align: left;
+    border: none;
+  }
+  #common-tbles th {
+    display: block;
+    text-align: left;
+    border: none;
+  }
+  #common-tbles td {
+    display: block;
+    text-align: left;
+    border: none;
+  }
+  #common-tbles tr {
+    display: block;
+    text-align: left;
+    border: none;
+  }
+
+  #common-tbles thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  #common-tbles tr {
+    border: 1px solid #ccc;
+  }
+  #common-tbles td {
+    border: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    padding-left: 50% !important;
+    white-space: normal;
+    text-align: left;
+  }
+  #common-tbles td {
+    border: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    padding-left: 50% !important;
+    white-space: normal;
+    text-align: left;
+  }
+  #common-tbles tr {
+    border: 1px solid #ccc;
+    font-size: 14px;
+  }
+  #common-tbles td:before {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: normal;
+    text-align: left;
+    content: attr(data-title);
+  }
+}
